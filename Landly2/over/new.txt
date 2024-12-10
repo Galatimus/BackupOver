@@ -1,0 +1,10 @@
+gadgets,189
+sports-outdoor,148
+Car_Accessories,84
+health-bty,35
+home-garden,162
+phone-acce,81
+electronics,197
+apparel-jewelry,227
+tablets-acce,15
+computer-net,59

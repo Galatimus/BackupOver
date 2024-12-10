@@ -1,0 +1,329 @@
+Seattle,WA
+Washington,DC
+Tampa,FL
+Orlando,FL
+St Petersburg,FL
+Jacksonville,FL
+Fort Lauderdale,FL
+Miami,FL
+Dallas,TX
+San Antonio,TX
+Houston,TX
+Austin,TX
+Fort Worth,TX
+Durham,NC
+Raleigh,NC
+Charlotte,NC
+Nashville,TN
+Memphis,TN
+Brooklyn,NY
+New York,NY
+Philadelphia,PA
+Reno,NV
+Las Vegas,NV
+Denver,CO
+Sacramento,CA
+Palo Alto,CA
+San Diego,CA
+Santa Ana,CA
+Santa Clara,CA
+Huntington Beach,CA
+Irvine,CA
+Fremont,CA
+San Francisco,CA
+Fresno,CA
+Anaheim,CA
+Los Angeles,CA
+Oakland,CA
+San Jose,CA
+Chicago,IL
+Atlanta,GA
+Indianapolis,IN
+Boston,MA
+Cincinnati,OH
+Cleveland,OH
+Salt Lake City,UT
+St Louis,MO
+Detroit,MI
+Portland,OR
+Yakima,WA
+Everett,WA
+Bellevue,WA
+Olympia,WA
+Vancouver,WA
+Kent,WA
+Marysville,WA
+Spokane,WA
+Bellingham,WA
+Bremerton,WA
+Tacoma,WA
+Renton,WA
+Kennewick,WA
+Pensacola,FL
+Miami Gardens,FL
+Hollywood,FL
+Kissimmee,FL
+Brandon,FL
+Spring Hill,FL
+Lehigh Acres,FL
+Clearwater,FL
+Ocala,FL
+North Port,FL
+Palm Bay,FL
+Winter Haven,FL
+Hialeah,FL
+Sarasota,FL
+Cape Coral,FL
+Tallahassee,FL
+Deltona,FL
+Pembroke Pines,FL
+Panama City,FL
+Coral Springs,FL
+Gainesville,FL
+Palm Coast,FL
+Davie,FL
+Port St Lucie,FL
+Leesburg,FL
+Miramar,FL
+West Palm Beach,FL
+Pompano Beach,FL
+Bonita Springs,FL
+Lakeland,FL
+Brownsville,TX
+McKinney,TX
+Texas City,TX
+College Station,TX
+Round Rock,TX
+McAllen,TX
+Pearland,TX
+Irving,TX
+El Paso,TX
+Denton,TX
+Amarillo,TX
+Pasadena,TX
+Garland,TX
+Grand Prairie,TX
+Longview,TX
+Lubbock,TX
+Killeen,TX
+Beaumont,TX
+Mesquite,TX
+Allen,TX
+Corpus Christi,TX
+Odessa,TX
+Port Arthur,TX
+Lewisville,TX
+Carrollton,TX
+Plano,TX
+Arlington,TX
+Harlingen,TX
+Frisco,TX
+Abilene,TX
+Temple,TX
+Tyler,TX
+The Woodlands,TX
+Midland,TX
+League City,TX
+Waco,TX
+Laredo,TX
+Richardson,TX
+High Point,NC
+Concord,NC
+Greenville,NC
+Burlington,NC
+Hickory,NC
+Cary,NC
+Wilmington,NC
+Asheville,NC
+Jacksonville,NC
+Fayetteville,NC
+Winston-Salem,NC
+Gastonia,NC
+Greensboro,NC
+Kingsport,TN
+Clarksville,TN
+Murfreesboro,TN
+Knoxville,TN
+Johnson City,TN
+Chattanooga,TN
+Syracuse,NY
+Albany,NY
+Queens,NY
+Bronx,NY
+Manhattan,NY
+Binghamton,NY
+Buffalo,NY
+Poughkeepsie,NY
+Rochester,NY
+Yonkers,NY
+Staten Island,NY
+Utica,NY
+Scranton,PA
+Harrisburg,PA
+Pittsburgh,PA
+Erie,PA
+Lancaster,PA
+Reading,PA
+Allentown,PA
+York,PA
+Pottstown,PA
+Henderson,NV
+North Las Vegas,NV
+Enterprise,NV
+Paradise,NV,
+Spring Valley,NV,
+Sparks,NV,
+Sunrise Manor,NV,
+Aurora,CO,
+Grand Junction,CO,
+Thornton,CO,
+Colorado Springs,CO,
+Lakewood,CO
+Pueblo,CO
+Highlands Ranch,CO
+Greeley,CO
+Boulder,CO
+Centennial,CO
+Arvada,CO
+Fort Collins,CO
+Westminster,CO
+Vallejo,CA
+Inglewood,CA
+El Monte,CA
+Indio,CA
+Modesto,CA
+Costa Mesa,CA
+Redding,CA
+Concord,CA
+San Mateo,CA
+West Covina,CA
+Rancho Cucamonga,CA
+Lancaster,CA
+Victorville,CA
+El Centro,CA
+Torrance,CA
+Vacaville,CA
+Seaside,CA
+Simi Valley,CA
+Mission Viejo,CA
+Burbank,CA
+Rialto,CA
+Roseville,CA
+Vista,CA
+Pasadena,CA
+Stockton,CA
+Fairfield,CA
+Yuba City,CA
+Corona,CA
+Elk Grove,CA
+Oxnard,CA
+Gilroy,CA
+Temecula,CA
+Escondido,CA
+Oceanside,CA
+Daly City,CA
+Sunnyvale,CA
+Salinas,CA
+Hayward,CA
+Palmdale,CA
+Turlock,CA
+Downey,CA
+Santa Barbara,CA
+Norwalk,CA
+Berkeley,CA
+Chula Vista,CA
+Long Beach,CA
+Antioch,CA
+Santa Maria,CA
+Clovis,CA
+Fontana,CA
+San Bernardino,CA
+Jurupa Valley,CA
+Garden Grove,CA
+Moreno Valley,CA
+Chico,CA
+El Cajon,CA
+Ontario,CA
+Murrieta,CA
+East Los Angeles,CA
+Merced,CA
+Richmond,CA
+Santa Cruz,CA
+Bakersfield,CA
+Fullerton,CA
+Hemet,CA
+Orange,CA
+Pomona,CA
+Santa Clarita,CA
+Thousand Oaks,CA
+Glendale,CA
+Santa Rosa,CA
+Visalia,CA
+Riverside,CA
+San Buenaventura,CA
+Carlsbad,CA
+Aurora,IL
+Round Lake Beach,IL
+Rockford,IL
+Champaign,IL
+Naperville,IL
+Bloomington,IL
+Springfield,IL
+Elgin,IL
+Peoria,IL
+Joliet,IL
+Columbus,GA
+Macon,GA
+Athens,GA
+Gainesville,GA
+Warner Robins,GA
+Augusta,GA
+Savannah,GA
+Sandy Springs,GA
+Elkhart,IN
+Bloomington,IN
+South Bend,IN
+Fort Wayne,IN
+Lafayette,IN
+Evansville,IN
+Leominster,MA
+Springfield,MA
+Worcester,MA
+New Bedford,MA
+Barnstable Town,MA
+Lowell,MA
+Cambridge,MA
+Akron,OH
+Columbus,OH
+Youngstown,OH
+Canton,OH
+Lorain,OH
+Dayton,OH
+Toledo,OH
+Provo,UT
+West Jordan,UT
+Logan,UT
+St George,UT
+West Valley City,UT
+Ogden,UT
+Independence,MO
+Kansas City,MO
+Springfield,MO
+Columbia,MO
+Ann Arbor,MI
+Sterling Heights,MI
+Muskegon,MI
+Flint,MI
+Lansing,MI
+South Lyon,MI
+Grand Rapids,MI
+Kalamazoo,MI
+Saginaw,MI
+Warren,MI
+Holland,MI
+Hillsboro,OR
+Eugene,OR
+Gresham,OR
+Salem,OR
+Medford,OR
+Bend,OR

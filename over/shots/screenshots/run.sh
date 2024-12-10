@@ -1,0 +1,1 @@
+python screen.py -a "Accept-Language:ru-RU,en,*" -a "Connection:keep-alive" -a "Referer:https://www.google.com/" -a "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8" -a "Upgrade-Insecure-Requests: 1" -c "sessid=812e3601680d0ff34d95e66cbd0fd6e0.1554884970"

@@ -1,0 +1,40 @@
+Ось descendant:: - Возвращает полное множество потомков. Пример использования xpath оси descendant в selenium rc:
+sel.isElementPresent("xpath=//td[@class='l-index-right']/div[@class='b-links']/div[@class='b-links-next']") - xpath, позволяющий обратиться к блоку "Что дальше?".
+ Можно упростить этот xpath используя ось descendant:
+sel.isElementPresent("xpath=//td[@class='l-index-right']/descendant::div[@class='b-links-next']")
+
+Ось descendant-or-self:: - отличается от оси descendant тем, что вместе с множеством предков возвращает и текущий элемент. В сокращенном варианте ось descendant-or-self:: - можно заменить на «//»
+
+Ось ancestor:: - Возвращает множество предков. Пример использования xpath оси ancestor в selenium rc:
+sel.getAttribute("xpath=//a[.='Букеты']/ancestor::td/@class") - xpath, по которому можно получить class первого td-предка тэга "Букеты"
+
+Ось ancestor-or-self:: - отличается от оси ancestor тем, что вместе с множеством предков возвращает и текущий элемент.
+
+Ось following:: - Возвращает необработанное множество, ниже текущего элемента. Пример использования xpath оси following в selenium rc:
+sel.getAttribute("xpath=//div[@class='b-banner']/following::div/@class") - xpath, выбирающий class первого попавшегося div из элементов ниже div[@class='b-banner']. В результате получим "b-sidebar".
+
+Ось following-sibling:: - Возвращает множество элементов на том же уровне, следующих за текущим. Пример использования xpath оси following-sibling в selenium rc:
+sel.getAttribute("xpath=//div[@class='b-banner']/following-sibling::div/@class") - xpath, выбирающий class первого попавшегося div из элементов одного уровня с div[@class='b-banner'],
+ находящихся ниже него. В результате получим "b-sent".
+
+Ось preceding:: - Возвращает множество обработанных элементов исключая множество предков. Пример использования xpath оси preceding в selenium rc:
+sel.getAttribute("xpath=//div[@class='b-foot']/preceding::table/@class") - xpath, выбирающий class первого попавшегося table из элементов выше div[@class='b-foot']. В результате получим "l-index".
+
+Ось preceding-sibling:: - Возвращает множество элементов на том же уровне, предшествующих текущему. Пример использования xpath оси preceding-sibling в selenium rc:
+sel.getAttribute("xpath=//div[@class='b-foot']/preceding-sibling::table/@class") - xpath, выбирающий class первого попавшегося table из элементов одного уровня с div[@class='b-foot'],
+ находящихся выше него. В результате получим "b-head"
+
+Ось child:: - Возвращает множество потомков на один уровень ниже. В сокращенном синтаксисе ось child:: просто опускают.
+Пример использования xpath оси child в selenium rc:
+sel.getText("xpath=//td[@id='menu_0']/child::a")
+или так sel.getText("//td[@id='menu_0']/a")
+
+Ось attribute:: - Возвращает множество атрибутов текущего элемента. В сокращенном синтаксисе ось attribute:: - можно заменить на «@»
+Пример использования xpath оси attribute в selenium rc:
+sel.getText("xpath=//td[attribute::id='menu_0']")
+или так sel.getText("xpath=//td[@id='menu_0']")
+
+Ось parent:: - Возвращает предка на один уровень назад. В сокращенном синтаксисе ось parent:: - можно заменить на «..»
+Пример использования xpath оси parent в selenium rc:
+sel.getText("xpath=//a[text()='Авто/Мото']/parent::td/following::td/a")
+или так sel.getText("xpath=//a[text()='Авто/Мото']/../following::td/a")

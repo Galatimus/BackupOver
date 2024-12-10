@@ -1,0 +1,12 @@
+http://oskol.ndv31.ru/arenda_ofisov
+http://oskol.ndv31.ru/rent_market
+http://oskol.ndv31.ru/arenda_prom_sektor
+http://belgorod.ndv31.ru/arenda_ofisov
+http://belgorod.ndv31.ru/rent_market
+http://belgorod.ndv31.ru/arenda_prom_sektor
+http://kursk.ndv31.ru/arenda_ofisov
+http://kursk.ndv31.ru/rent_market
+http://kursk.ndv31.ru/arenda_prom_sektor
+http://gubkin.ndv31.ru/arenda_ofisov
+http://gubkin.ndv31.ru/rent_market
+http://gubkin.ndv31.ru/arenda_prom_sektor

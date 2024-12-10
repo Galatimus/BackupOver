@@ -1,0 +1,13 @@
+http://dom.yuga.ru/prodaja/kommerce/krasnodarskij_kraj
+http://dom.yuga.ru/arenda/kommerce/krasnodarskij_kraj
+http://dom.yuga.ru/prodaja/kommerce/rostovskaya_oblast
+http://dom.yuga.ru/arenda/kommerce/rostovskaya_oblast
+http://dom.yuga.ru/prodaja/kommerce/adygeya_respublika
+http://dom.yuga.ru/arenda/kommerce/adygeya_respublika
+http://dom.yuga.ru/prodaja/kommerce/volgogradskaya_oblast
+http://dom.yuga.ru/arenda/kommerce/volgogradskaya_oblast
+http://dom.yuga.ru/prodaja/kommerce/stavropolskij_kraj
+http://dom.yuga.ru/arenda/kommerce/stavropolskij_kraj
+http://dom.yuga.ru/prodaja/kommerce/astrakhanskaya_oblast
+http://dom.yuga.ru/arenda/kommerce/astrakhanskaya_oblast
+http://dom.yuga.ru/prodaja/kommerce/kbr

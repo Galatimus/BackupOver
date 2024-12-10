@@ -1,0 +1,313 @@
+{
+  "_links": {
+    "collection": [
+      {
+        "href": "http://192.168.1.4/nails/wp-json/wc/v3/products"
+      }
+    ], 
+    "self": [
+      {
+        "href": "http://192.168.1.4/nails/wp-json/wc/v3/products/1861"
+      }
+    ]
+  }, 
+  "attributes": [
+    {
+      "id": 0, 
+      "name": "Бренд", 
+      "options": [
+        "Born Pretty"
+      ], 
+      "position": 0, 
+      "variation": false, 
+      "visible": true
+    }, 
+    {
+      "id": 0, 
+      "name": "Тип товара", 
+      "options": [
+        "Гель ногтя"
+      ], 
+      "position": 1, 
+      "variation": false, 
+      "visible": true
+    }, 
+    {
+      "id": 0, 
+      "name": "Тип", 
+      "options": [
+        "УФ-гель"
+      ], 
+      "position": 2, 
+      "variation": false, 
+      "visible": true
+    }, 
+    {
+      "id": 0, 
+      "name": "Ингредиент", 
+      "options": [
+        "Resin"
+      ], 
+      "position": 3, 
+      "variation": false, 
+      "visible": true
+    }, 
+    {
+      "id": 0, 
+      "name": "Количество", 
+      "options": [
+        "1 Bottle"
+      ], 
+      "position": 4, 
+      "variation": false, 
+      "visible": true
+    }, 
+    {
+      "id": 0, 
+      "name": "Номер модели", 
+      "options": [
+        "AXP45206"
+      ], 
+      "position": 5, 
+      "variation": false, 
+      "visible": true
+    }, 
+    {
+      "id": 0, 
+      "name": "Объем", 
+      "options": [
+        "6 мл"
+      ], 
+      "position": 6, 
+      "variation": false, 
+      "visible": true
+    }, 
+    {
+      "id": 0, 
+      "name": "Вес нетто", 
+      "options": [
+        "Approx.6ml"
+      ], 
+      "position": 7, 
+      "variation": false, 
+      "visible": true
+    }
+  ], 
+  "average_rating": "0.00", 
+  "backordered": false, 
+  "backorders": "no", 
+  "backorders_allowed": false, 
+  "button_text": "", 
+  "catalog_visibility": "visible", 
+  "categories": [
+    {
+      "id": 79, 
+      "name": "Чистые гель-лаки", 
+      "slug": "pure-colors-gel"
+    }
+  ], 
+  "cross_sell_ids": [], 
+  "date_created": "2020-02-09T01:35:41", 
+  "date_created_gmt": "2020-02-08T22:35:41", 
+  "date_modified": "2020-02-14T16:09:42", 
+  "date_modified_gmt": "2020-02-14T13:09:42", 
+  "date_on_sale_from": null, 
+  "date_on_sale_from_gmt": null, 
+  "date_on_sale_to": null, 
+  "date_on_sale_to_gmt": null, 
+  "default_attributes": [], 
+  "description": "<p><widget data-widget-type=\"customText\" id=\"24621742\" title=\"\" type=\"custom\"></widget></p>\n<p>Особенности и характеристики:</p>\n<p>Параметры:<br />Количество: 1 флакон<br />Емкость: 6 мл<br />Цвет: как показано на фотографии</p>\n<p>Посылка в комплект входит:<br />1 бутылка BORN PRETTY 6 мл Желейный Гель-лак</p>\n<p>Особенности:<br />Новинка 100% года; Розничная продажа; высокое качество.<br />Подходит для нанесения на УФ гелевые ногти, акриловые ногти и натуральные ногти и т. Д.<br />Укрепляйте ногти с помощью прочного блестящего покрытия.<br />Идеально подходит как для профессионального, так и для личного использования.</p>\n<p>Профессиональный использование:<br />Шаг 1. Очистите ногти, затем обрежьте поверхность ногтей, как обычный процесс маникюра.<br />Шаг 2. Полностью встряхните Гель-лак, он может сделать цвет гель-лака сбалансированным. (ВАЖНО)<br />Шаг 3. Сначала нанесите Базовое покрытие, которое может сделать лак длительным дольше, вылечите УФ-лампой или светодиодный лампой. (Необходимо)<br />Шаг 4. Нанесите первый слой цветного геля непосредственно, вылечите УФ-лампой в течение 2 минут или вылечите светодиодный-лампой в течение 60 секунд.<br />Шаг 5. Нанесите второй слой цветного гель-лака, не вылечивайте, а затем немедленно вылечивайте УФ-лампой в течение 2 минут или вылечивайте светодиодный-лампой в течение 60 секунд.<br />Шаг 6. Покрытие без протирания верхним слоем, вылечено УФ-лампой или светодиодный лампой.</p>\n<p>Как удалить УФ гель-лак для ногтей:<br />• Замочите ногти в стеклянной миске, заполненной небольшим количеством чистого ацетона, или оберните каждый ноготь ватным диском, смоченным чистым ацетоном, в течение 5-10 минут.<br />• Продукт начнет становиться мягким, и вы можете аккуратно отпиливать его или сползать с помощью небольшой деревянной палочки. </p>\n", 
+  "dimensions": {
+    "height": "", 
+    "length": "", 
+    "width": ""
+  }, 
+  "download_expiry": -1, 
+  "download_limit": -1, 
+  "downloadable": false, 
+  "downloads": [], 
+  "external_url": "", 
+  "featured": false, 
+  "grouped_products": [], 
+  "id": 1861, 
+  "images": [
+    {
+      "alt": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра", 
+      "date_created": "2020-02-09T03:35:44", 
+      "date_created_gmt": "2020-02-08T22:35:44", 
+      "date_modified": "2020-02-09T03:35:44", 
+      "date_modified_gmt": "2020-02-08T22:35:44", 
+      "id": 1863, 
+      "name": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра", 
+      "src": "https://ae01.alicdn.com/kf/Hd2e4453c4f6e48e694e11dda80893c0ed/BORN-PRETTY-полупрозрачный-Гель-лак-для-ногтей-6-мл-полупрозрачный-замачивающийся-УФ-светодиодный-Гель-лак-для.jpg"
+    }, 
+    {
+      "alt": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра 1", 
+      "date_created": "2020-02-09T03:35:45", 
+      "date_created_gmt": "2020-02-08T22:35:45", 
+      "date_modified": "2020-02-09T03:35:45", 
+      "date_modified_gmt": "2020-02-08T22:35:45", 
+      "id": 1865, 
+      "name": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра 1", 
+      "src": "https://ae01.alicdn.com/kf/HTB1w4GleW1s3KVjSZFAq6x_ZXXaC/BORN-PRETTY-полупрозрачный-Гель-лак-для-ногтей-6-мл-полупрозрачный-замачивающийся-УФ-светодиодный-Гель-лак-для.jpg"
+    }, 
+    {
+      "alt": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра 2", 
+      "date_created": "2020-02-09T03:35:46", 
+      "date_created_gmt": "2020-02-08T22:35:46", 
+      "date_modified": "2020-02-09T03:35:46", 
+      "date_modified_gmt": "2020-02-08T22:35:46", 
+      "id": 1868, 
+      "name": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра 2", 
+      "src": "https://ae01.alicdn.com/kf/H1d8cca8825aa4dc7bf04c10ba24a8ffaK/BORN-PRETTY-полупрозрачный-Гель-лак-для-ногтей-6-мл-полупрозрачный-замачивающийся-УФ-светодиодный-Гель-лак-для.jpg"
+    }, 
+    {
+      "alt": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра 3", 
+      "date_created": "2020-02-09T03:35:46", 
+      "date_created_gmt": "2020-02-08T22:35:46", 
+      "date_modified": "2020-02-09T03:35:46", 
+      "date_modified_gmt": "2020-02-08T22:35:46", 
+      "id": 1870, 
+      "name": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра 3", 
+      "src": "https://ae01.alicdn.com/kf/Hf74a872db26d46d883f87ae1e903498aN/BORN-PRETTY-полупрозрачный-Гель-лак-для-ногтей-6-мл-полупрозрачный-замачивающийся-УФ-светодиодный-Гель-лак-для.jpg"
+    }, 
+    {
+      "alt": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра 4", 
+      "date_created": "2020-02-09T03:35:47", 
+      "date_created_gmt": "2020-02-08T22:35:47", 
+      "date_modified": "2020-02-09T03:35:47", 
+      "date_modified_gmt": "2020-02-08T22:35:47", 
+      "id": 1872, 
+      "name": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра 4", 
+      "src": "https://ae01.alicdn.com/kf/H0d1bf1674d8e44f58f73a34a952967ebB/BORN-PRETTY-полупрозрачный-Гель-лак-для-ногтей-6-мл-полупрозрачный-замачивающийся-УФ-светодиодный-Гель-лак-для.jpg"
+    }, 
+    {
+      "alt": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра 5", 
+      "date_created": "2020-02-09T03:35:48", 
+      "date_created_gmt": "2020-02-08T22:35:48", 
+      "date_modified": "2020-02-09T03:35:48", 
+      "date_modified_gmt": "2020-02-08T22:35:48", 
+      "id": 1874, 
+      "name": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра 5", 
+      "src": "https://ae01.alicdn.com/kf/HTB10Y3JXIfrK1RjSszcq6xGGFXa8/BORN-PRETTY-полупрозрачный-Гель-лак-для-ногтей-6-мл-полупрозрачный-замачивающийся-УФ-светодиодный-Гель-лак-для.jpg"
+    }
+  ], 
+  "manage_stock": false, 
+  "menu_order": 0, 
+  "meta_data": [
+    {
+      "id": 16383, 
+      "key": "_a2wl_external_id", 
+      "value": "32955874945"
+    }, 
+    {
+      "id": 16387, 
+      "key": "_product_url", 
+      "value": "https://alitems.com/g/1e8d114494507e24cafe16525dc3e8/?ulp=https%3A%2F%2Fru.aliexpress.com%2Fitem%2F32955874945%2F32955874945.html"
+    }, 
+    {
+      "id": 16389, 
+      "key": "_a2wl_product_url", 
+      "value": "https://alitems.com/g/1e8d114494507e24cafe16525dc3e8/?ulp=https%3A%2F%2Fru.aliexpress.com%2Fitem%2F32955874945%2F32955874945.html"
+    }, 
+    {
+      "id": 16391, 
+      "key": "_a2wl_original_product_url", 
+      "value": "https://ru.aliexpress.com/item/32955874945/32955874945.html"
+    }, 
+    {
+      "id": 16393, 
+      "key": "_a2wl_seller_url", 
+      "value": "https://www.aliexpress.com/store/1814259"
+    }, 
+    {
+      "id": 16395, 
+      "key": "_a2wl_import_type", 
+      "value": "a2wl"
+    }, 
+    {
+      "id": 16397, 
+      "key": "_a2wl_last_update", 
+      "value": "1581201341"
+    }, 
+    {
+      "id": 16399, 
+      "key": "_a2wl_skip_meta", 
+      "value": {
+        "skip_images": [
+          "d37bfbc26b4ab198f6cd2206d47f0539"
+        ], 
+        "skip_vars": []
+      }
+    }, 
+    {
+      "id": 16401, 
+      "key": "_a2wl_disable_sync", 
+      "value": "0"
+    }, 
+    {
+      "id": 16403, 
+      "key": "_a2wl_disable_var_price_change", 
+      "value": "0"
+    }, 
+    {
+      "id": 16405, 
+      "key": "_a2wl_disable_var_quantity_change", 
+      "value": "0"
+    }, 
+    {
+      "id": 16407, 
+      "key": "_a2wl_orders_count", 
+      "value": "13"
+    }, 
+    {
+      "id": 16412, 
+      "key": "_aliexpress_regular_price", 
+      "value": "260.31"
+    }, 
+    {
+      "id": 16414, 
+      "key": "_aliexpress_price", 
+      "value": "155.92"
+    }
+  ], 
+  "name": "полупрозрачный замачивающийся УФ светодиодный Гель-лак для маникюра", 
+  "on_sale": false, 
+  "parent_id": 0, 
+  "permalink": "http://192.168.1.4/nails/product/poluprozrachnyj-zamachivayushhijsya-uf-svetodiodnyj-gel-lak-dlya-manikyura/", 
+  "price": "649.67", 
+  "price_html": "<span class=\"woocommerce-Price-amount amount\">650&nbsp;<span class=\"woocommerce-Price-currencySymbol\"> руб.</span></span>", 
+  "purchasable": true, 
+  "purchase_note": "", 
+  "rating_count": 0, 
+  "regular_price": "649.67", 
+  "related_ids": [
+    1694, 
+    1778, 
+    1666, 
+    1764, 
+    1679
+  ], 
+  "reviews_allowed": true, 
+  "sale_price": "", 
+  "shipping_class": "", 
+  "shipping_class_id": 0, 
+  "shipping_required": true, 
+  "shipping_taxable": true, 
+  "short_description": "", 
+  "sku": "32955874945", 
+  "slug": "poluprozrachnyj-zamachivayushhijsya-uf-svetodiodnyj-gel-lak-dlya-manikyura", 
+  "sold_individually": false, 
+  "status": "publish", 
+  "stock_quantity": null, 
+  "stock_status": "instock", 
+  "tags": [], 
+  "tax_class": "", 
+  "tax_status": "taxable", 
+  "total_sales": 0, 
+  "type": "simple", 
+  "upsell_ids": [], 
+  "variations": [], 
+  "virtual": false, 
+  "weight": ""
+}
